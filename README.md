@@ -35,3 +35,7 @@ If you would like to contribute to this project, you can follow the steps below:
 4. Commit the changes and create your own branch.
 5. Submit your branch as a pull request to the parent project.
 6. Once your changes have been reviewed and approved, you will have contributed to the project.
+
+### Gif
+
+<img src="https://github.com/Hasan-Arslan2779/Flapy_Bird_Game/blob/master/flapy-bird.gif" alt="Gif">
